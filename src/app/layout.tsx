@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     default: "JobBoard – Find Your Next Role",
   },
   description: "Browse the latest tech job openings from top companies.",
-  metadataBase: new URL("https://your-domain.com"),
+  metadataBase: new URL("https://dynamic-seo-job-posting.vercel.app"),
 };
 
 export default function RootLayout({
